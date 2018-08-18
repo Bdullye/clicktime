@@ -1,0 +1,65 @@
+[
+    {
+      "id": 1,
+      "image": "/assets/images/reaper.jpg",
+      "clicked": false
+    },
+    {
+      "id": 2,
+      "image": "/assets/images/ana.jpg",
+      "clicked":false
+
+    },
+    {
+      "id": 3,
+      "image": "/assets/images/brigitte.jpg",
+      "clicked":false
+    },
+    {
+      "id": 4,
+      "image": "/assets/images/diva.jpg",
+      "clicked": false
+    },
+    {
+      "id": 5,
+      "image": "/assets/images/mccree.jpg",
+      "clicked":false
+
+    },
+    {
+      "id": 6,
+      "image": "/assets/images/mercy.jpg",
+      "clicked":false
+    },
+    {
+      "id": 7,
+      "image": "/assets/images/moira.jpg",
+      "clicked": false
+    },
+    {
+      "id": 8,
+      "image": "/assets/images/pharah.jpg",
+      "clicked":false
+
+    },
+    {
+      "id": 9,
+      "image": "/assets/images/rinehardt.jpg",
+      "clicked":false
+    },
+    {
+      "id": 10,
+      "image": "/assets/images/tracer.jpg",
+      "clicked":false
+    },
+    {
+      "id": 11,
+      "image": "/assets/images/winston.jpg",
+      "clicked":false
+    },
+    {
+      "id": 12,
+      "image": "/assets/images/roadhog.png",
+      "clicked":false
+    }
+  ]
